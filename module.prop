@@ -1,6 +1,7 @@
 id=openeuicc
 name=OpenEUICC
-version=v04
-versionCode=4
-author=AndroPlus
-description=Add OpenEUICC for eSIM
+version=v0.4.1
+versionCode=1041
+author=AndroPlus (forked by @iljasrb)
+description=Installs OpenEUICC (debug) for eSIM as system app.
+updateJson=https://raw.githubusercontent.com/iljasrb/openeuicc-module/refs/heads/master/update.json
